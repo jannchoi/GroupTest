@@ -56,7 +56,7 @@
 		CED745092D8BEA0300B1EACC /* GroupTest */ = {
 			isa = PBXGroup;
 			children = (
-				CED745142D8BEB8900B1EACC /* Jack */,
+				CED745162D8BECD700B1EACC /* Hue */,
 				CED745002D8BEA0300B1EACC /* AppDelegate.swift */,
 				CED745012D8BEA0300B1EACC /* Assets.xcassets */,
 				CED745022D8BEA0300B1EACC /* Info.plist */,
@@ -67,12 +67,12 @@
 			path = GroupTest;
 			sourceTree = "<group>";
 		};
-		CED745142D8BEB8900B1EACC /* Jack */ = {
+		CED745162D8BECD700B1EACC /* Hue */ = {
 			isa = PBXGroup;
 			children = (
 				CED745082D8BEA0300B1EACC /* ViewController.swift */,
 			);
-			path = Jack;
+			path = Hue;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
